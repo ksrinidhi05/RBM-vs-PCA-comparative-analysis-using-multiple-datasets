@@ -1,0 +1,4 @@
+This folder contains the complete implementation of the project "RBM vs PCA: Dimensionality Reduction Techniques". It includes all core scripts 
+for preprocessing, model training, dimensionality reduction using PCA and RBM, visualization of reduced features, and evaluation metrics. The code is modular, 
+well-documented, and structured to allow easy experimentation 
+and comparison between the two methods.
